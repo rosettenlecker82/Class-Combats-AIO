@@ -1,0 +1,4 @@
+== Hot Bar Setup == 
+
+Slot 0: Health Potions
+Slot 9: Pet Food

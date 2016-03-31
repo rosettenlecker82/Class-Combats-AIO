@@ -1,0 +1,2 @@
+Slot 0: HP Potion
+Slot 9: Pet Food
