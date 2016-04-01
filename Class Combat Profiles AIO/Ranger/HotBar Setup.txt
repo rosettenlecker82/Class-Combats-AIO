@@ -1,2 +1,3 @@
 Slot 0: HP Potion
 Slot 9: Pet Food
+Slot 1: Evasive Explosive Shot
